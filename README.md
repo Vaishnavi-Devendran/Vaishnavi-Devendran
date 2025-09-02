@@ -7,11 +7,20 @@ As a recent graduate from Trinity College Dublin with an MSc in Computer Science
 ### My Toolbox
 ---
 
-Programming & ML: Python (Pandas, Scikit-learn, Keras), SQL (Advanced Queries), R, GenAI, LLMs, NLP, Computer Vision (CNNs, OpenCV)
+## Programming: 
+Python (Pandas, Numpy, Scikit-learn, Matplotlib, Mediapipe, OpenCV, Pycaret, Autoarima, Pydomo), R, SQL (CRUD, CTEs, Join, Union, Subqueries), HTML, CSS
 
-Data & Analytics: Snowflake, DBT, Tableau, Power BI, Excel, Data Modeling, Data Integration, Predictive Modeling
+## Data & Analytics Tools: 
+Power BI (in progress), Tableau, DOMO, Snowflake, DBT, Excel
 
-Business Skills: Data Visualization, Stakeholder Communication, Cross-functional Collaboration, Problem-Solving
+## Key Skills: 
+Advanced SQL Queries, Commercial Reporting, KPI Tracking, Data Visualization, Data Modeling, Data Integration, Relational Databases, Process Automation, Custom Dashboards, Predictive Modeling
+
+## ML/AI Tools: 
+Gen AI, Keras, CNNs, Supervised Learning, AutoML Frameworks, Natural Language Processing (NLP)
+
+## Business Skills: 
+Stakeholder Communication, Cross-functional Collaboration, Problem-Solving, Customer Experience Analytic
 
 ---
 ### My Projects
@@ -25,6 +34,11 @@ Summary: My Master's dissertation focused on developing a lightweight deep learn
 Key Achievement: My model achieved a state-of-the-art PSNR of 34.67 dB and a competitive NIQE score of 3.47 on unseen datasets, showcasing its efficiency and generalization capabilities.
 
 Technologies: Python, TensorFlow, Keras, Computer Vision
+
+## Multi-Report Analysis App
+Summary: Developed a data processing application that automates the analysis of multiple reports, converting them into structured data. The app extracts key metrics and provides visualizations for efficient business analysis.
+
+Technologies: Python, Pandas, Matplotlib, Streamlit (for the UI)
 
 ## AI Recruitment System
 Summary: Built a deep learning system to analyze candidate responses in interviews using real-time emotion prediction.
