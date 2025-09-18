@@ -40,6 +40,7 @@ Summary: Developed a data processing application that automates the analysis of 
 
 Technologies: Python, Pandas, Matplotlib, Streamlit (for the UI)
 
+
 ## AI Recruitment System
 Summary: Built a deep learning system to analyze candidate responses in interviews using real-time emotion prediction. The system uses computer vision to analyze eye gaze and blink rate to provide data-driven insights.
 
@@ -47,7 +48,7 @@ Key Achievement: Architected the system using Mediapipe, achieving 95% accuracy 
 
 Technologies: Python, Keras, Mediapipe, OpenCV, Computer Vision
 
-Automated Machine Learning Platform Development
+## Automated Machine Learning Platform Development
 Summary: Supported the backend development of a user-friendly automated ML platform, automating model building and delivering scalable analytics solutions. I integrated H2O, PyCaret, and Auto-ARIMA frameworks to increase data coverage by 20%.
 
 Key Achievement: The project's pipeline automated data preprocessing, feature engineering, and feature selection, reducing model training time by 35%.
