@@ -60,4 +60,4 @@ LinkedIn: [(https://www.linkedin.com/in/vaishnavi-ganesh-86157111b/)]
 
 Email: [vaishnaviganesh14@gmail.com]
 
-Resume: [(https://drive.google.com/file/d/1j-dL75jnVfTR8xm5vG-xO7N9doxJyhSl/view?usp=sharing)]
+Resume: [https://drive.google.com/file/d/1gLdaPko6uBTu87zi5QNTszIyYHHGCac-/view?usp=sharing]
