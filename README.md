@@ -2,7 +2,7 @@ Hi, I'm Vaishnavi! 👋
 
 I'm a data science professional with over two years of experience building machine learning models and scalable data pipelines. I specialize in turning complex data into actionable business intelligence for global clients. I have hands-on experience in AI, machine learning, and data analytics, with a proven ability to develop scalable solutions to solve complex challenges. My passion lies in applying my skills to real-world problems, with a proven ability to develop scalable solutions to solve complex challenges.
 
-I recently graduated with an MSc in Computer Science with a focus on Data Science from Trinity College Dublin.
+I recently graduated with a MSc in Computer Science with a focus on Data Science from Trinity College Dublin.
 ---
 ### My Toolbox
 ---
